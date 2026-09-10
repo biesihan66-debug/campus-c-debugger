@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.spec
+.setup-work/
+build/
+dist/
+*.exe
+*.log
+.campus_c_debugger/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

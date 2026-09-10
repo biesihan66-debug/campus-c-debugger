@@ -1,0 +1,25 @@
+Repository name:
+campus-c-debugger
+
+Description:
+本地离线的 C 语言错误检测与安全自动修复工具，基于 GCC，提供中文诊断、差异高亮和日夜模式。
+
+Topics:
+c
+gcc
+python
+tkinter
+debugger
+static-analysis
+education
+windows
+chinese
+
+Release tag:
+v1.2.0
+
+Release title:
+Campus C Debugger v1.2.0
+
+License:
+MIT
